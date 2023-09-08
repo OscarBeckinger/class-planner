@@ -1,0 +1,777 @@
+Class,Title,Units,Prereq,Coreq
+Administration of Justice,Administration of Justice,Administration of Justice,Administration of Justice,Administration of Justice
+ADJUS 120,Introduction to the Administration of Justice,3,N,N
+ADJUS 121,Criminal Law,3,N,N
+ADJUS 126,Leadership and Ethics,3,N,N
+ADJUS 130,Cultural Diversity in Criminal Justice,3,N,N
+,,,,
+Anthropology,Anthropology,Anthropology,Anthropology,Anthropology
+ANTHR 115,Primate Evolution and Adaptation,3,N,N
+ANTHR 120,"Magic, Witchcraft, and Religion in the Americas",3,N,N
+ANTHR 125,Introduction to Archaeology and Prehistory,3,N,N
+ANTHR 130,Cultural Anthropology,3,N,N
+ANTHR 135,Native Americans,3,N,N
+ANTHR 140,Biological Anthropology,3,N,N
+ANTHR 141L,Biological Anthropology Laboratory,1,N,ANTHR 140
+,,,,
+Arabic,Arabic,Arabic,Arabic,Arabic
+ARABC 120,First Term Arabic,5,N,N
+ARABC 121,Second Term Arabic,5,ARABC 120,N
+,,,,
+Architecture,Architecture,Architecture,Architecture,Architecture
+ARCHI 119,Introduction to Technical Drawing,3,N,N
+ARCHI 120,Introduction to Architecture and Environmental Design,3,N,N
+ARCHI 121,Architectural Design I,4,ARCHI 120,N
+ARCHI 126,Computer Aided Design and Drafting - AutoCAD,3,N,N
+ARCHI 130,Architectural Graphics I,3,N,N
+ARCHI 131,Architectural Graphics II,3,ARCHI 130,N
+ARCHI 156,History of World Architecture: Early Civilizations to Middle Ages,3,N,N
+ARCHI 157,History of World Architecture: Middle Ages to 18th Century,3,N,N
+ARCHI 158,History of World Architecture: 18th Century to Present,3,N,N
+ARCHI 160,History of American Architecture,3,N,N
+ARCHI 220,Architectural Design II,4,ARCHI 121,N
+ARCHI 221,Architectural Design III,4,ARCHI 220,N
+ARCHI 226,"Computer Aided Drafting Design, Advanced Concepts - AutoCAD",3,ARCHI 126,N
+,,,,
+Architecture - Landscape Architecture,Architecture - Landscape Architecture,Architecture - Landscape Architecture,Architecture - Landscape Architecture,Architecture - Landscape Architecture
+ARCLA 120,Introduction to Landscape Architecture and Environmental Design,3,N,N
+ARCLA 121,Landscape Design,3,ARCLA 120,N
+ARCLA 130,Landscape Drafting and Graphics,3,N,N
+,,,,
+Art,Art,Art,Art,Art
+ART 101,Introduction to Two-Dimensional Design,3,N,N
+ART 102,Introduction to Three-Dimensional Design and Sculpture,3,N,N
+ART 103,Visual Theory and Practice - Color Theory,3,N,N
+ART 105,Introduction to Drawing,3,N,N
+ART 106,Drawing in Color,3,N,N
+ART 107,Figure Drawing I,3,N,N
+ART 108,Figure Drawing II,3,ART 107,N
+ART 109,Monotype and Mixed Media,3,N,N
+ART 110,Introduction to Printmaking,3,N,N
+ART 111,Printmaking: Etching I,3,N,N
+ART 112,Printmaking: Etching II,3,ART 111,N
+ART 114,Printmaking: Woodblock I,3,N,N
+ART 116,Printmaking: Screen Print,3,N,N
+ART 120,Watercolor I,3,N,N
+ART 121,Watercolor II,3,ART 120,N
+ART 126,Painting I: Introduction to Painting,3,N,N
+ART 127,Painting II: Intermediate Painting,3,ART 126,N
+ART 128,Painting Concepts and Portfolio Development,3,N,N
+ART 129,Advanced Painting,3,ART 127,N
+ART 130,Figure Painting,3,ART 127,N
+ART 131,Painting and Abstraction,3,ART 127,N
+ART 138,Sculpture I,3,ART 102,N
+ART 139,Sculpture II,3,N,N
+ART 141,From Clay to Bronze,3,N,N
+ART 151,Visual Theory and Practice - Ceramic Art,3,N,N
+ART 152,Wheel-Thrown Pottery I,3,N,N
+ART 153,Wheel-Thrown Pottery II,3,ART 152,N
+ART 154,Hand-Built Ceramics I,3,N,N
+ART 155,Ceramic Sculpture I,3,N,N
+ART 156,Figurative Ceramics I,3,N,N
+ART 160,Photography I,3,N,N
+ART 161,Photography II,3,ART 160,N
+ART 252,Wheel-Thrown Pottery III,3,ART 153,N
+ART 253,Wheel-Thrown Pottery IV,3,ART 252,N
+ART 254,Hand-Built Ceramics II,3,ART 154,N
+ART 255,Ceramic Sculpture II,3,ART 155,N
+ART 256,Figurative Ceramics II,3,ART 156,N
+,,,,
+Art Digital Media,Art Digital Media,Art Digital Media,Art Digital Media,Art Digital Media
+ARTDM 100,Introduction to the History and Development of Digital Media,3,N,N
+ARTDM 101,Introduction to the Production of Digital Media,3,N,N
+ARTDM 105,Introduction to Digital Imaging,3,N,N
+ARTDM 112,Digital Imaging for the Artist,3,N,N
+ARTDM 115,Digital Interface Design,3,N,N
+ARTDM 117,Digital Illustration,3,N,N
+ARTDM 136,Introduction to Digital Photography,3,N,N
+ARTDM 140,Motion Graphics,3,N,N
+ARTDM 149,Fundamentals of Digital Video,3,N,N
+ARTDM 160,3D Modeling and Animation I,3,N,N
+ARTDM 161,3D Modeling and Animation II,3,ARTDM 160,N
+ARTDM 167,Digital Animation,3,N,N
+ARTDM 170,Animation for Interaction Design,3,N,N
+ARTDM 180,Game Design I,3,N,N
+ARTDM 181,Game Design II,3,ARTDM 180,N
+ARTDM 214,Introduction to Graphic Design,3,N,N
+ARTDM 224,Typography,3,N,N
+,,,,
+Art History,Art History,Art History,Art History,Art History
+ARTHS 100,Art Appreciation,3,N,N
+ARTHS 191,Critical Thinking in Visual Studies,3,N,N
+ARTHS 193,History of Asian Art,3,N,N
+ARTHS 195,History of Prehistoric and Ancient Art,3,N,N
+ARTHS 196,History of Medieval and Renaissance Art,3,N,N
+ARTHS 197,History of Baroque to 20th Century Art,3,N,N
+ARTHS 199,Contemporary Art History,3,N,N
+,,,,
+Astronomy,Astronomy,Astronomy,Astronomy,Astronomy
+ASTRO 110,The Visible Universe,3,N,N
+ASTRO 112,The Visible Universe with Laboratory,4,N,N
+ASTRO 120,Elementary Astronomy,3,ASTRO 110,N
+ASTRO 130,Astronomy Laboratory,1,ASTRO 110,N
+,,,,
+Biological Science,Biological Science,Biological Science,Biological Science,Biological Science
+BIOSC 101,Fundamentals of Biological Science,3,N,N
+BIOSC 102,Fundamentals of Biological Science with Laboratory,4,N,N
+BIOSC 107,Genetics and Evolution,4,N,N
+BIOSC 116,Human Biology,3,N,N
+BIOSC 117,Human Biology with Laboratory,4,N,N
+BIOSC 119,Fundamentals of Microbiology,4,CHEM 108,N
+BIOSC 120,Introduction to Human Anatomy and Physiology,5,N,N
+BIOSC 126,Ecology and Field Biology,4,N,N
+BIOSC 130,Principles of Cellular and Molecular Biology,5,CHEM 120,N
+BIOSC 131,"Principles of Organismal Biology, Evolution, and Ecology",5,CHEM 120,N
+BIOSC 139,Human Anatomy,5,N,N
+BIOSC 140,Human Physiology,5,BIOSC 120-CHEM 108,N
+BIOSC 146,Principles of Microbiology,5,CHEM 108,N
+BIOSC 161,Fundamentals of Marine Biology,3,N,N
+BIOSC 162,Fundamentals of Marine Biology with Laboratory,4,N,N
+BIOSC 170,Environmental Science,3,N,N
+BIOSC 171,Environmental Science with Laboratory,4,N,N
+,,,,
+Business,Business,Business,Business,Business
+BUS 109,Introduction to Business,3,N,N
+BUS 240,Business Statistics,3,N,N
+BUS 294,Business Law,3,BUS 109,N
+,,,,
+Business Accounting,Business Accounting,Business Accounting,Business Accounting,Business Accounting
+BUSAC 186,Financial Accounting,4,N,N
+BUSAC 187,Managerial Accounting,4,BUSAC 186,N
+,,,,
+Business Marketing,Business Marketing,Business Marketing,Business Marketing,Business Marketing
+BUSMK 258,Advertising and Gender,3,N,N
+,,,,
+Career Development,Career Development,Career Development,Career Development,Career Development
+CARER 100,College and Career Readiness I,1.5,N,N
+CARER 101,College and Career Readiness II,1.5,CARER 100,N
+CARER 110,Career and Life Planning,3,N,N
+,,,,
+Chemistry,Chemistry,Chemistry,Chemistry,Chemistry
+CHEM 106,Chemistry for Non-Science Majors,4,N,N
+CHEM 107,"Integrated Inorganic, Organic, and Biological Chemistry",5,N,N
+CHEM 108,Introductory Chemistry,4,N,N
+CHEM 109,Introduction to Organic and Biochemistry,4,CHEM 108,N
+CHEM 120,General College Chemistry I,5,CHEM 108,N
+CHEM 121,General College Chemistry II,5,CHEM 120,N
+CHEM 226,Organic Chemistry I,5,CHEM 121,N
+CHEM 227,Organic Chemistry II,5,CHEM 227,N
+,,,,
+Chinese,Chinese,Chinese,Chinese,Chinese
+CHIN 120,First Term Mandarin Chinese,5,N,N
+CHIN 121,Second Term Mandarin Chinese,5,CHIN 120,N
+CHIN 220,Third Term Mandarin Chinese,5,CHIN 121,N
+CHIN 221,Fourth Term Mandarin Chinese,5,CHIN 220,N
+,,,,
+Communication Studies,Communication Studies,Communication Studies,Communication Studies,Communication Studies
+COMM 120,Public Speaking,3,N,N
+COMM 121,Persuasion and Critical Thinking,3,ENGL 122,N
+COMM 123,Argumentation and Debate,3,N,N
+COMM 124,Voice and Diction,3,N,N
+COMM 125,Intercultural Communication,3,N,N
+COMM 128,Interpersonal Communication,3,N,N
+COMM 130,Small Group Communication,3,N,N
+COMM 148,Performance of Literature,3,N,N
+COMM 163,Forensics - Speech and Debate,1.50 - 4.00,N,N
+COMM 180,Introduction to Communication Theory,3,N,N
+,,,,
+Computer Science,Computer Science,Computer Science,Computer Science,Computer Science
+COMSC 101,Computer Literacy,4,N,N
+COMSC 110,Introduction to Programming,4,N,N
+COMSC 140,Python Programming,3,N,N
+COMSC 165,Advanced Programming with C and C++,4,COMSC 110,N
+COMSC 171,Introduction to UNIX and Linux,2,N,N
+COMSC 200,Object Oriented Programming C++,4,COMSC 165,N
+COMSC 210,Program Design and Data Structures,4,COMSC 165,N
+COMSC 230,Discrete Mathematical Structures for Computer Science,3,COMSC 165,N
+COMSC 240,Advanced Python Programming,3,COMSC 140,N
+COMSC 255,Programming with Java,4,N,N
+COMSC 256,Advanced Java Programming,4,COMSC 255,N
+COMSC 260,Assembly Language Programming/Computer Organization,4,N,N
+,,,,
+Construction,Construction,Construction,Construction,Construction
+CONST 116,Plane Surveying,4,N,N
+,,,,
+Counseling,Counseling,Counseling,Counseling,Counseling
+COUNS 100,New Student Success Strategies,1,N,N
+COUNS 120,Student Success,3,N,N
+COUNS 125,Student Strategies for Happiness and Well-being,3,N,N
+COUNS 140,Student Success for International Students,3,N,N
+,,,,
+Dance,Dance,Dance,Dance,Dance
+DANCE 100,Introduction to Dance,1,N,N
+DANCE 105A,Pilates Mat Work I,1,N,N
+DANCE 105B,Pilates Mat Work II,1,N,N
+DANCE 110A,Ballet Fundamentals I,1,N,N
+DANCE 110B,Ballet Fundamentals II,1,N,N
+DANCE 120A,Jazz Dance Fundamentals I,1,N,N
+DANCE 120B,Jazz Dance Fundamentals II,1,N,N
+DANCE 130A,Modern Dance Fundamentals I,1,N,N
+DANCE 130B,Modern Dance Fundamentals II,1,N,N
+DANCE 160A,Tap Dance I,1,N,N
+DANCE 160B,Tap Dance II,1,N,N
+DANCE 162A,Broadway Dance I,1,N,N
+DANCE 164A,Ballroom/Social Dance I,1,N,N
+DANCE 164B,Ballroom/Social Dance II,1,N,N
+DANCE 166,Swing Dance,1,N,N
+DANCE 168A,Salsa and Latin Dance I,1,N,N
+DANCE 168B,Salsa and Latin Dance II,1,N,N
+DANCE 169A,Argentine Tango I,1,N,N
+DANCE 170A,Hip-Hop and Urban Funk Dance I,1,N,N
+DANCE 170B,Hip-Hop and Urban Funk Dance II,1,N,N
+DANCE 200,Dance Appreciation,3,N,N
+DANCE 201,Critical Thinking in Western Culture Dance History: 20th Century to Present,3,N,N
+DANCE 205,Music Theory for Dancers,2,N,N
+DANCE 212,Ballet I,1,N,N
+DANCE 213,Ballet II,1,N,N
+DANCE 214,Ballet III,1,N,N
+DANCE 216,Pointe Technique,1,N,N
+DANCE 222,Jazz Dance I,1,N,N
+DANCE 223,Jazz Dance II,1,N,N
+DANCE 224,Jazz Dance III,1,N,N
+DANCE 232,Modern Dance I,1,N,N
+DANCE 233,Modern Dance II,1,N,N
+DANCE 234,Modern Dance III,1,N,N
+DANCE 242,Repertory Dance Production I,1,N,N
+DANCE 243,Repertory Dance Production I - Tech Week,0.5,N,N
+DANCE 244,Repertory Dance Production II,1,N,N
+DANCE 245,Repertory Dance Production II - Tech Week,0.5,N,N
+DANCE 246,Dance Production I,1.5,N,N
+DANCE 247,Dance Production I - Tech Week,0.5,N,N
+DANCE 248,Dance Production II,1.5,N,N
+DANCE 249,Dance Production II - Tech Week,0.5,N,N
+DANCE 250,Dance Choreography,2,N,N
+DANCE 256,Dance Production Choreography,1.5,N,N
+DANCE 257,Dance Production Choreography - Tech Week,0.5,N,N
+,,,,
+Drama,Drama,Drama,Drama,Drama
+DRAMA 111,Introduction to Lighting Design,3,N,N
+DRAMA 112,Introduction to Stage Makeup,3,N,N
+DRAMA 113,Introduction to Costume Design,3,N,N
+DRAMA 114,Script Analysis,3,N,N
+DRAMA 122,Basic Principles of Acting,3,N,N
+DRAMA 123,Intermediate Principles of Acting,3,N,N
+DRAMA 124,Advanced Principles of Acting,6,N,N
+DRAMA 125,Advanced Styles in Scene Study: From Shakespeare to Shaw,6,N,N
+DRAMA 126,Auditioning and Preparation for the Camera,3,N,N
+DRAMA 130,Principles of Directing,3,N,N
+DRAMA 139,Introduction to Theater,3,N,N
+DRAMA 142,Multicultural Perspective in American Theater,3,N,N
+DRAMA 170,Introduction to Musical Theater,3,N,N
+DRAMA 171,Musical Theater II,3,N,N
+DRAMA 200,Introduction to Technical Theater,3,N,N
+DRAMA 201,Technical Theater Laboratory,1.00 - 2.00,N,N
+DRAMA 202,Fundamentals of Stage Production - Technical Theater,1.00 - 2.00,N,N
+DRAMA 230,Directing Projects,1.00 - 2.00,N,N
+DRAMA 260,Technical Theater Practicum,1.00 - 2.00,N,N
+DRAMA 270,Stage Production,1.00 - 2.00,N,N
+DRAMA 275,Musical Theater Production,1.00 - 2.00,N,N
+,,,,
+Early Childhood Education,Early Childhood Education,Early Childhood Education,Early Childhood Education,Early Childhood Education
+ECE 124,Child Development and Psychology,3,N,N
+,,,,
+Economics,Economics,Economics,Economics,Economics
+ECON 101,Economics of Public Issues,3,N,N
+ECON 200,Introduction to Economics,3,N,N
+ECON 210,Economic Justice,3,N,N
+ECON 220,Principles of Macroeconomics,3,N,N
+ECON 221,Principles of Microeconomics,3,N,N
+,,,,
+Education,Education,Education,Education,Education
+EDUC 120,Introduction to Teaching in Elementary Schools,3,N,N
+,,,,
+Education - Special Education,Education - Special Education,Education - Special Education,Education - Special Education,Education - Special Education
+EDUSP 101,Introduction to Disabilities,3,N,N
+EDUSP 102,Historical Perspectives of Disabilities and the Law,3,N,N
+,,,,
+Engineering,Engineering,Engineering,Engineering,Engineering
+ENGIN 110,Introduction to Engineering,3,N,N
+ENGIN 120,Engineering Drawing,3,N,N
+ENGIN 121,Engineering Drawing/Descriptive Geometry,3,N,N
+ENGIN 130,"Energy, Society, and the Environment",3,N,N
+ENGIN 131,Technology and Society,3,N,N
+ENGIN 135,Programming for Scientists and Engineers,4,MATH 192,N
+ENGIN 136,Computer Programming for Engineers Using MATLAB,4,MATH 192,N
+ENGIN 140,Plane Surveying,4,N,N
+ENGIN 210,Thermodynamics,3,CHEM 120-PHYS 230,N
+ENGIN 230,Introduction to Circuits and Devices,4,MATH 193-PHYS 230,N
+ENGIN 240,Properties of Engineering Materials,4,CHEM 120-PHYS 230,N
+ENGIN 255,Statics,3,MATH 193-PHYS 130,N
+ENGIN 257,Statics and Strength of Materials,3,MATH 193-PHYS 130,N
+,,,,
+Engineering Technology,Engineering Technology,Engineering Technology,Engineering Technology,Engineering Technology
+ENGTC 119,Introduction to Technical Drawing,3,N,N
+ENGTC 126,Computer Aided Design and Drafting - AutoCAD,3,N,N
+ENGTC 160,Introduction to Industrial and Manufacturing Engineering,3,N,N
+ENGTC 162,Geometric Dimensioning and Tolerancing,1,N,N
+ENGTC 226,"Computer Aided Drafting Design, Advanced Concepts - AutoCAD",3,N,N
+,,,,
+English,English,English,English,English
+ENGL 122,First-Year College Writing and Reading,3,N,N
+ENGL 122A,First-Year College English for Multilingual Students,3,N,N
+ENGL 122AL,First-Year College English Intensive for Multilingual Students,5,N,N
+ENGL 122AM,First-Year College English with Support for Multilingual Students,4,N,N
+ENGL 122L,First-Year College Writing and Reading With Additional Support,5,N,N
+ENGL 122M,First-Year College Writing and Reading With Support,4,N,N
+ENGL 122X,"Year-Long First-Year College Writing and Reading, Part II",3,N,N
+ENGL 123,Critical Thinking: Writing about Literature,3,ENGL 122,N
+ENGL 124,The Nature of Language: An Introduction to Linguistics,3,N,N
+ENGL 126,Critical Thinking: Writing about Non-Fiction,3,ENGL 122,N
+ENGL 150,Introduction to Literature,3,N,N
+ENGL 151,The Short Story,3,N,N
+ENGL 152,Film as Literature,3,N,N
+ENGL 153,Contemporary Poetry,3,N,N
+ENGL 154,Shakespeare and His World,3,N,N
+ENGL 162,"Language, Literature, and Culture",3,N,N
+ENGL 163,Asian American Literature,3,N,N
+ENGL 164,Native American Literatures,3,N,N
+ENGL 166,African American Literature,3,N,N
+ENGL 167,Latin American Literature,3,N,N
+ENGL 168,Multiethnic Literatures of the United States,3,N,N
+ENGL 170,World Mythology,3,N,N
+ENGL 172,The Bible as Literature,3,N,N
+ENGL 173,Queer Literature Across Cultures,3,N,N
+ENGL 175,Science Fiction and Fantasy Literature,3,N,N
+ENGL 176,The Graphic Novel as Literature,3,N,N
+ENGL 177,Children's Literature,3,N,N
+ENGL 178,Young Adult Literature,3,N,N
+ENGL 180,Drama and Performance as Literature,3,N,N
+ENGL 190,Multicultural Literature by American Women,3,N,N
+ENGL 222,Multi-Genre Creative Writing,3,ENGL 122,N
+ENGL 223,Short Story Writing,3,ENGL 122,N
+ENGL 224,Poetry Writing,3,ENGL 122,N
+ENGL 225,Creative Nonfiction Writing,3,ENGL 122,N
+ENGL 252,Survey of Early English Literature,3,ENGL 122,N
+ENGL 253,Survey of Late English Literature,3,ENGL 122,N
+ENGL 262,Survey of Early American Literature,3,ENGL 122,N
+ENGL 263,Survey of Late American Literature,3,ENGL 122,N
+ENGL 272,Survey of Early World Literature,3,ENGL 122,N
+ENGL 273,Survey of Late World Literature,3,ENGL 122,N
+,,,,
+English as a Second Language,English as a Second Language,English as a Second Language,English as a Second Language,English as a Second Language
+ESL 117A,Integrated Reading and Writing: Advanced English Language Learners,5,N,N
+,,,,
+Ethnic Studies,Ethnic Studies,Ethnic Studies,Ethnic Studies,Ethnic Studies
+ETHN 101,Introduction to Ethnic Studies,3,N,N
+,,,,
+"Film, Television, and Electronic Media","Film, Television, and Electronic Media","Film, Television, and Electronic Media","Film, Television, and Electronic Media","Film, Television, and Electronic Media"
+FTVE 140,Introduction to Film and Media Scriptwriting,3,N,N
+FTVE 141,Intermediate Film and Media Scriptwriting,3,FTVE 140,N
+FTVE 142,Advanced Film and Media Scriptwriting,3,FTVE 141,N
+FTVE 160,Introduction to Film Production,3,N,N
+FTVE 161,Intermediate Film Production,3,FTVE 160,N
+FTVE 165,Digital Editing,3,N,N
+FTVE 166,Intermediate Digital Editing,3,FTVE 165,N
+FTVE 200,American Cinema/American Culture,3,N,N
+FTVE 205,Introduction to Film and Media Arts,3,N,N
+FTVE 210,American Ethnic Cultures in Film,3,N,N
+FTVE 240,Survey of Broadcasting and Electronic Media,3,N,N
+FTVE 260,Ethnic Images in United States (U.S.) Television,3,N,N
+FTVE 280,American Cinema 1900-1950,3,N,N
+FTVE 281,World Cinema 1900-1960,3,N,N
+FTVE 282,American Cinema 1950 to the Present,3,N,N
+FTVE 283,World Cinema 1960 to the Present,3,N,N
+,,,,
+French,French,French,French,French
+FRNCH 120,First Term French,5,N,N
+FRNCH 121,Second Term French,5,FRNCH 120,N
+FRNCH 220,Third Term French,5,FRNCH 121,N
+FRNCH 221,Fourth Term French,5,FRNCH 220,N
+FRNCH 230,Fifth Term French,3,FRNCH 221,N
+FRNCH 231,Sixth Term French,3,FRNCH 230,N
+,,,,
+Geography,Geography,Geography,Geography,Geography
+GEOG 120,Physical Geography,3,N,N
+GEOG 121,Physical Geography Laboratory,1,GEOG 120,N
+GEOG 124,Thinking and Communicating Geospatially,3,N,N
+GEOG 125,Introduction to Geographic Information Systems (GIS),3,N,N
+GEOG 130,Cultural Geography,3,N,N
+GEOG 135,World Regional Geography,3,N,N
+GEOG 140,Introduction to Weather,3,N,N
+GEOG 141,Introduction to Weather Laboratory,1,N,GEOG 140
+GEOG 160,Introduction to Remote Sensing,3,N,N
+GEOG 162,Map Design and Visualization,3,N,N
+,,,,
+Geology,Geology,Geology,Geology,Geology
+GEOL 120,Physical Geology,3,N,N
+GEOL 121,Earth and Life Through Time,3,N,N
+GEOL 122,Physical Geology Laboratory,1,N,GEOL 120
+GEOL 124,Earth and Life Through Time Laboratory,1,N,GEOL 121
+GEOL 125,Geology of California,3,N,N
+GEOL 130,Earth Science,4,N,N
+GEOL 135,Introduction to Field Geology,2,GEOL 120-GEOL 122,N
+,,,,
+German,German,German,German,German
+GRMAN 120,First Term German,5,N,N
+GRMAN 121,Second Term German,5,GRMAN 120,N
+GRMAN 220,Third Term German,5,GRMAN 121,N
+GRMAN 221,Fourth Term German,5,GRMAN 220,N
+GRMAN 230,Fifth Term German,3,GRMAN 221,N
+GRMAN 231,Sixth Term German,3,GRMAN 230,N
+,,,,
+History,History,History,History,History
+HIST 120,History of the United States before 1865,3,N,N
+HIST 121,History of the United States after 1865,3,N,N
+HIST 122,Critical Reasoning in History,3,ENGL 122,N
+HIST 124,History of California,3,N,N
+HIST 125,History of the United States: A Mexican American Perspective,3,N,N
+HIST 126,The American West,3,N,N
+HIST 127,African American Perspective History of the US to 1865,3,N,N
+HIST 128,African American Perspective History of the US after 1865,3,N,N
+HIST 129,History of Asians and Pacific Islanders in the United States,3,N,N
+HIST 135,History of Latin America - The Colonial Period,3,N,N
+HIST 136,History of Latin America - The National Period,3,N,N
+HIST 140,History of Western Civilization to the Renaissance,3,N,N
+HIST 141,History of Western Civilization since the Renaissance,3,N,N
+HIST 142,Contemporary European History,3,N,N
+HIST 150,History of East Asia (to 1600),3,N,N
+HIST 151,History of East Asia (from 1600 - Present),3,N,N
+HIST 170,History of Women in the United States before 1877,3,N,N
+HIST 171,History of Women in the United States after 1865,3,N,N
+HIST 180,World History to 1500,3,N,N
+HIST 181,World History since 1500,3,N,N
+,,,,
+Horticulture,Horticulture,Horticulture,Horticulture,Horticulture
+HORT 110,Introduction to Horticulture and Plant Science,4,N,N
+HORT 120,Soil Science and Management,3,HORT 110,N
+,,,,
+Humanities,Humanities,Humanities,Humanities,Humanities
+HUMAN 105,Introduction to Humanities: Arts and Ideas,3,N,N
+HUMAN 108,Humanities: The Roots of Hell,3,N,N
+HUMAN 110,Humanities: Ancient Civilizations,3,N,N
+HUMAN 111,Humanities: The Middle Ages and Renaissance,3,N,N
+HUMAN 112,Humanities: The Modern World,3,N,N
+HUMAN 115,Humanities: The Multicultural American Experience,3,N,N
+HUMAN 116,Humanities: The Arts and Culture of Asia,3,N,N
+HUMAN 118,"Humanities: Film, Fiction, and Criticism",3,N,N
+HUMAN 123,Humanities: American Popular Culture,3,N,N
+HUMAN 124,Humanities: California Culture,3,N,N
+,,,,
+Industrial Design,Industrial Design,Industrial Design,Industrial Design,Industrial Design
+IDSGN 120,Introduction to Industrial and Product Design,3,N,N
+,,,,
+Italian,Italian,Italian,Italian,Italian
+ITAL 120,First Term Italian,5,N,N
+ITAL 121,Second Term Italian,5,ITAL 120,N
+ITAL 220,Third Term Italian,5,ITAL 121,N
+ITAL 221,Fourth Term Italian,5,ITAL 220,N
+ITAL 230,Fifth Term Italian,3,ITAL 221,N
+ITAL 231,Sixth Term Italian,3,ITAL 230,N
+,,,,
+Japanese,Japanese,Japanese,Japanese,Japanese
+JAPAN 120,First Term Japanese,5,N,N
+JAPAN 121,Second Term Japanese,5,JAPAN 120,N
+JAPAN 220,Third Term Japanese,5,JAPAN 121,N
+JAPAN 221,Fourth Term Japanese,5,JAPAN 220,N
+,,,,
+Journalism,Journalism,Journalism,Journalism,Journalism
+JRNAL 110,Mass Media of Communication,3,N,N
+,,,,
+Kinesiology,Kinesiology,Kinesiology,Kinesiology,Kinesiology
+KINES 100,Fitness and Wellness,1,N,N
+KINES 210,Introduction to Kinesiology,3,N,N
+KINES 234,Introduction to Sports Medicine and Athletic Training,3,N,N
+KINES 240,Principles of Optimizing Human Performance,3,N,N
+KINES 242,Exercise Techniques and Fitness Assessments,1,N,N
+KINES 248,Sport and Society,3,N,N
+KINES 260,Theory of Coaching Sports,3,N,N
+KINES 265,Theory and Strategies of American Football Offense,2,N,N
+KINES 266,Theory and Strategies of American Football Defense,2,N,N
+,,,,
+Kinesiology - Activity,Kinesiology - Activity,Kinesiology - Activity,Kinesiology - Activity,Kinesiology - Activity
+KNACT 100A,Beginning Swimming,1,N,N
+KNACT 100B,Intermediate Swimming,1,KNACT 100A,N
+KNACT 102A,Beginning Aquatic Fitness,1,N,N
+KNACT 102B,Intermediate Aquatic Fitness,1,KNACT 102A,N
+KNACT 110A,Beginning Hatha Yoga,1,N,N
+KNACT 110B,Intermediate Hatha Yoga,1,KNACT 110A,N
+KNACT 110C,Advanced Hatha Yoga,1,KNACT 110B,N
+KNACT 120,Physical Fitness,1,N,N
+KNACT 122A,"Beginning Exercise, Balance, and Mobility",1,N,N
+KNACT 122B,"Intermediate Exercise, Balance, and Mobility",1,KNACT 122A,N
+KNACT 124A,"Beginning Strength, Core, and More",1,N,N
+KNACT 124B,"Intermediate Strength, Core, and More",1,KNACT 124A,N
+KNACT 125,Zumba,1,N,N
+KNACT 128A,Beginning Cardio Kickboxing,1,N,N
+KNACT 128B,Intermediate Cardio Kickboxing,1,KNACT 128A,N
+KNACT 130A,Beginning Fitness Walking,1,N,N
+KNACT 130B,Intermediate Fitness Walking,1,KNACT 130A,N
+KNACT 132,Hiking,1,N,N
+KNACT 140,Indoor Cycling,1,N,N
+KNACT 144A,Beginning Strength and Cardio Circuit Training,1,N,N
+KNACT 144B,Intermediate Strength and Cardio Circuit Training,1,KNACT 144A,N
+KNACT 146A,Theory and Practice of Strength Training and Fitness I,1,N,N
+KNACT 146B,Theory and Practice of Strength Training and Fitness II,1,KNACT 146A,N
+KNACT 146C,Theory and Practice of Strength Training and Fitness III,1,KNACT 146B,N
+KNACT 146D,Theory and Practice of Strength Training and Fitness IV,1,KNACT 146C,N
+KNACT 148A,Beginning Power Training,1,N,N
+KNACT 148B,Intermediate Power Training,1,KNACT 148A,N
+KNACT 160A,Beginning Badminton,1,N,N
+KNACT 160B,Intermediate Badminton,1,KNACT 160A,N
+KNACT 162,Bowling,1,N,N
+KNACT 164A,Beginning Golf,1,N,N
+KNACT 164B,Intermediate Golf,1,KNACT 164A,N
+KNACT 166A,Beginning Tennis,1,N,N
+KNACT 166B,Intermediate Tennis,1,KNACT 166A,N
+KNACT 170A,Beginning Basketball,1,N,N
+KNACT 170B,Intermediate Basketball,1,KNACT 170A,N
+KNACT 174A,Beginning Men's Lacrosse,1,N,N
+KNACT 174B,Intermediate Men's Lacrosse,1,KNACT 174A,N
+KNACT 176A,Beginning Soccer,1,N,N
+KNACT 176B,Intermediate Soccer,1,KNACT 176A,N
+KNACT 178A,Beginning Indoor Soccer,1,N,N
+KNACT 178B,Intermediate Indoor Soccer,1,KNACT 178A,N
+KNACT 182A,Beginning Volleyball,1,N,N
+KNACT 182B,Intermediate Volleyball,1,KNACT 182A,N
+KNACT 182C,Advanced Volleyball,1,KNACT 182B,N
+KNACT 184A,Beginning Beach Volleyball,1,N,N
+KNACT 195A,Beginning Plyometric and Agility Training for Female Athletes,1,N,N
+KNACT 195B,Intermediate Plyometrics and Agility Training for Female Athletes,1,KNACT 195A,N
+KNACT 195C,Advanced Plyometrics and Agility Training for Female Athletes,1,KNACT 195B,N
+,,,,
+Kinesiology - Combative,Kinesiology - Combative,Kinesiology - Combative,Kinesiology - Combative,Kinesiology - Combative
+KNCMB 110,Self-Defense,1,N,N
+KNCMB 114,Jujitsu,1,N,N
+KNCMB 118A,Beginning Taekwondo,1,N,N
+KNCMB 118B,Intermediate Taekwondo,1,KNCMB 118A,N
+KNCMB 118C,Advanced Taekwondo,1,KNCMB 118B,N
+KNCMB 126A,Beginning Aikido,1,N,N
+KNCMB 126B,Intermediate Aikido,1,KNCMB 126A,N
+KNCMB 128,Aikido Weapons - Jo and Bokken,1,N,N
+KNCMB 130,Judo,1,N,N
+KNCMB 134,Karate,1,N,N
+,,,,
+Kinesiology - Intercollegiate,Kinesiology - Intercollegiate,Kinesiology - Intercollegiate,Kinesiology - Intercollegiate,Kinesiology - Intercollegiate
+KNICA 120,Analysis of Multiple Aspects of Modern Day Football,0.50 - 2.00,N,N
+KNICA 199,Sport-Specific Athletic Conditioning,0.50 - 2.00,N,N
+KNICA 200,"Intercollegiate Baseball, Men",3,N,N
+KNICA 202A,"Intercollegiate Basketball-A, Men",2,N,N
+KNICA 202B,"Intercollegiate Basketball-B, Men",1,N,N
+KNICA 203A,"Intercollegiate Basketball-A, Women",2,N,N
+KNICA 203B,"Intercollegiate Basketball-B, Women",1,N,N
+KNICA 204,"Intercollegiate Cross Country, Men",3,N,N
+KNICA 205,"Intercollegiate Cross Country, Women",3,N,N
+KNICA 206,"Intercollegiate Football, Men",3,N,N
+KNICA 209,"Intercollegiate Soccer, Men",3,N,N
+KNICA 210,"Intercollegiate Soccer, Women",3,N,N
+KNICA 215,"Intercollegiate Softball, Women",3,N,N
+KNICA 216,"Intercollegiate Swimming and Diving, Men",3,N,N
+KNICA 217,"Intercollegiate Swimming and Diving, Women",3,N,N
+KNICA 218,"Intercollegiate Tennis, Men",3,N,N
+KNICA 219,"Intercollegiate Tennis, Women",3,N,N
+KNICA 220,"Intercollegiate Track and Field, Men",3,N,N
+KNICA 221,"Intercollegiate Track and Field, Women",3,N,N
+KNICA 223,"Intercollegiate Volleyball, Women",3,N,N
+KNICA 224,"Intercollegiate Water Polo, Men",3,N,N
+KNICA 225,"Intercollegiate Water Polo, Women",3,N,N
+,,,,
+Library Studies,Library Studies,Library Studies,Library Studies,Library Studies
+LS 121,Information Literacy and Research Skills,1,N,N
+,,,,
+Mathematics,Mathematics,Mathematics,Mathematics,Mathematics
+MATH 124,Mathematics for Liberal Arts,3,N,N
+MATH 125,Mathematical Concepts for Elementary School Teachers,3,N,N
+MATH 135,College Algebra,4,N,N
+MATH 135SP,MATH 135SP College Algebra - Self-Paced,4,N,N
+MATH 142,Elementary Statistics with Probability,4,N,N
+MATH 181,Finite Mathematics,3,N,N
+MATH 182,"Calculus for Management, Life Science, and Social Science I",4,N,N
+MATH 183,"Calculus for Management, Life Science, and Social Science II",4,MATH 182,N
+MATH 191,Pre-Calculus,5,N,N
+MATH 191SP,MATH 191SP Pre-Calculus - Self Paced,5,N,N
+MATH 192,Analytic Geometry and Calculus I,5,N,N
+MATH 193,Analytic Geometry and Calculus II,5,MATH 192,N
+MATH 194,Linear Algebra,3,MATH 193,N
+MATH 195,Discrete Mathematics,4,N,MATH 193
+MATH 289,Introduction to Upper Division Mathematics,4,MATH 193,N
+MATH 292,Analytic Geometry and Calculus III,5,MATH 193,N
+MATH 294,Differential Equations,5,MATH 292,N
+,,,,
+Music,Music,Music,Music,Music
+MUSIC 100,Applied Music,1,N,N
+MUSIC 103,Guitar Ensemble,1,N,N
+MUSIC 104,Advanced Guitar Ensemble,1,N,N
+MUSIC 108,Rock Theory and Improvisation I,1,N,N
+MUSIC 109,Live Music Production and Stagecraft I,1,N,N
+MUSIC 110,Music Appreciation,3,N,N
+MUSIC 112,America's Music - A Multicultural Perspective,3,N,N
+MUSIC 114,World Music,3,N,N
+MUSIC 115,Music of the Middle East/North Africa and South Asia,3,N,N
+MUSIC 117,History of Rock and R&B,3,N,N
+MUSIC 118,History of Jazz,3,N,N
+MUSIC 119,The History and Culture of Hip Hop Music,3,N,N
+MUSIC 121,Introduction to Music Composition,3,N,N
+MUSIC 122,Theory and Musicianship I,4,N,N
+MUSIC 123,Theory and Musicianship II,4,N,N
+MUSIC 127,Jazz Theory and Improvisation I,2,N,N
+MUSIC 128,Jazz Theory and Improvisation II,2,N,N
+MUSIC 129,Counterpoint,3,N,N
+MUSIC 130,Jazz Workshop,1,N,N
+MUSIC 131,World Music Repertoire,1,N,N
+MUSIC 133,Opera Theater,1,N,N
+MUSIC 134,Musical Theater Workshop,1,N,N
+MUSIC 135,Vocal Jazz Ensemble,1,N,N
+MUSIC 136,Jazz Ensemble,1,N,N
+MUSIC 137,Jazz Combos,1.00 - 2.00,N,N
+MUSIC 140,Wind Ensemble,1,N,N
+MUSIC 142,Woodwind Ensemble,1,N,N
+MUSIC 144,Brass Ensemble,1,N,N
+MUSIC 150,Beginning Piano I,1,N,N
+MUSIC 151,Beginning Piano II,1,N,N
+MUSIC 152,Jazz Piano,1,N,N
+MUSIC 160,Beginning Guitar I,1,N,N
+MUSIC 161,Beginning Guitar II,1,N,N
+MUSIC 162,Concert Choir,1,N,N
+MUSIC 166,Chamber Singers,1.00 - 2.00,N,N
+MUSIC 168,Percussion Ensemble,1,N,N
+MUSIC 170,Applied Voice Training,1,N,N
+MUSIC 171,Jazz and Popular Solo Voice,1,N,N
+MUSIC 176,String Ensemble,1,N,N
+MUSIC 179,Intermediate Applied Voice,1,N,N
+MUSIC 180,Diablo Valley Masterworks Chorale,1,N,N
+MUSIC 185,Pop and Rock Repertoire,1,N,N
+MUSIC 186,"R&B, Hip Hop, and Funk Repertoire",1,N,N
+MUSIC 187,"Country, Bluegrass, and Folk Repertoire",1,N,N
+MUSIC 208,Rock Theory and Improvisation II,1,N,N
+MUSIC 209,Live Music Production and Stagecraft II,1,N,N
+MUSIC 221,Advanced Music Composition,3,N,N
+MUSIC 222,Theory and Musicianship III,4,N,N
+MUSIC 223,Theory and Musicianship IV,4,N,N
+MUSIC 236,Night Jazz Band,1,N,N
+MUSIC 240,Symphonic Band,1,N,N
+MUSIC 250,Intermediate Piano I,1,N,N
+MUSIC 251,Intermediate Piano II,1,N,N
+MUSIC 252,Piano Ensemble,1,N,N
+MUSIC 255,Piano Repertoire Master Class,1,N,N
+MUSIC 262,Intermediate Guitar I,1,N,N
+MUSIC 263,Intermediate Guitar II,1,N,N
+MUSIC 290,Philharmonic Orchestra,1,N,N
+,,,,
+Music Industry Studies,Music Industry Studies,Music Industry Studies,Music Industry Studies,Music Industry Studies
+MUSX 110,History of Electronic Music,3,N,N
+,,,,
+Nutrition,Nutrition,Nutrition,Nutrition,Nutrition
+NUTRI 115,Nutrition and Health: Personal Applications,3,N,Nutrition
+NUTRI 130,Food and Nutrition: Cross Cultural Perspectives,3,N,N
+NUTRI 160,Nutrition: Science and Applications,3,N,N
+NUTRI 170,Nutrition: Across the Life Span,3,N,N
+,,,,
+Oceanography,Oceanography,Oceanography,Oceanography,Oceanography
+OCEAN 101,Fundamentals of Oceanography,3,N,N
+OCEAN 102,Fundamentals of Oceanography with Laboratory,4,N,N
+,,,,
+Persian,Persian,Persian,Persian,Persian
+PERSN 120,First Term Persian,5,N,N
+PERSN 121,Second Term Persian,5,PERSN 120,N
+,,,,
+Philosophy,Philosophy,Philosophy,Philosophy,Philosophy
+PHILO 120,Introduction to Philosophy,3,N,N
+PHILO 122,Introduction to Ethics,3,N,N
+PHILO 130,Logic and Critical Thinking,3,ENGL 122,N
+PHILO 140,Introduction to Judeo-Christian Tradition,3,N,N
+PHILO 141,Introduction to the Philosophy of Religion,3,N,N
+PHILO 145,Introduction to Asian Philosophy,3,N,N
+PHILO 160,Introduction to Social and Political Philosophy,3,N,N
+PHILO 170,Symbolic Logic,3,N,N
+PHILO 220,Comparative Religion,3,N,N
+PHILO 224,History of Western Philosophy: Pre-Socratic to Medieval Period,3,N,N
+PHILO 225,History of Western Philosophy: Descartes to Present,3,N,N
+,,,,
+Physical Science,Physical Science,Physical Science,Physical Science,Physical Science
+PHYSC 112,Fundamentals of Physical Science,3,N,N
+,,,,
+Physics,Physics,Physics,Physics,Physics
+PHYS 110,Elementary Physics,3,N,N
+PHYS 111,Physics Laboratory,1,N,PHYS 110
+PHYS 112,Elementary Physics with Laboratory,4,N,N
+PHYS 113,Elementary Modern Physics: From Atoms to the Big Bang,3,N,N
+PHYS 120,General College Physics I,4,N,N
+PHYS 121,General College Physics II,4,PHYS 120,N
+PHYS 124,Calculus Supplement for Physics 120,0.5,PHYS 120,MATH 192
+PHYS 125,Calculus Supplement for Physics 121,0.5,N,PHYS 121-MATH 193
+PHYS 129,Introductory Physics for Engineers,4,N,MATH 192
+PHYS 130,Physics for Engineers and Scientists A: Mechanics and Wave Motion,4,N,MATH 193
+PHYS 230,Physics for Engineers and Scientists B: Heat and Electro-Magnetism,4,PHYS 130,MATH 292
+PHYS 231,Physics for Engineers and Scientists C: Optics and Modern Physics,4,PHYS 230,MATH 294
+,,,,
+Political Science,Political Science,Political Science,Political Science,Political Science
+POLSC 120,Introduction to Politics,3,N,N
+POLSC 121,Introduction to United States Government,3,N,N
+POLSC 122,Latinx Politics and American Government,3,N,N
+POLSC 123,Black Politics and American Government,3,N,N
+POLSC 127,Introduction to Law and Democracy,3,N,N
+POLSC 151,California Politics,3,N,N
+POLSC 210,Political Ideology,3,N,N
+POLSC 220,Comparative Politics,3,N,N
+POLSC 240,Political Theory,3,N,N
+POLSC 250,International Relations,3,N,N
+POLSC 252,Model United Nations,3,N,N
+,,,,
+Psychology,Psychology,Psychology,Psychology,Psychology
+PSYCH 101,Introduction to Psychology,3,N,N
+PSYCH 122,Psychology in Modern Life,3,N,N
+PSYCH 130,Introduction to Biological Psychology,3,PSYCH 101,N
+PSYCH 140,Psychology of African-Americans in a Multicultural Society,3,N,N
+PSYCH 141,Psychology of Latinos/Chicanos in the U.S.,3,N,N
+PSYCH 145,Critical Thinking in Psychology,3,ENGL 122,N
+PSYCH 160,Psychology of Women,3,N,N
+PSYCH 190,Psychology of Adolescence,3,N,N
+PSYCH 195,Psychology of Adult Development and Aging,3,N,N
+PSYCH 200,Life Span Development,3,N,N
+PSYCH 214,Introduction to Statistics for Psychology,4,N,N
+PSYCH 215,Introduction to Research Methods in Psychology,3,PSYCH 101-PSYCH 214,N
+PSYCH 220,"Psychology of Personality: Personal, Social, Cultural Differences",3,N,N
+PSYCH 225,Social Psychology,3,N,N
+PSYCH 230,Abnormal Psychology,3,N,N
+PSYCH 240,Transpersonal Psychology,3,N,N
+,,,,
+Public Health,Public Health,Public Health,Public Health,Public Health
+PH 124,Health and Wellness,3,N,N
+PH 127,"Drugs, Health, and Society",3,N,N
+PH 130,Introduction to Community and Public Health,3,N,N
+PH 135,Health and Social Justice,3,N,N
+PH 137,Cultural Competence in Health and Social Service,3,N,N
+PH 140,Human Sexuality,3,N,N
+PH 164,Health and Healing Systems: Cross-Cultural Perspectives,3,N,N
+PH 170,Women's Health,3,N,N
+PH 230,Advanced First Aid/CPR,3,N,N
+,,,,
+Russian,Russian,Russian,Russian,Russian
+RUSS 120,First Term Russian,5,N,N
+RUSS 121,Second Term Russian,5,RUSS 120,N
+RUSS 220,Third Term Russian,5,RUSS 121,N
+RUSS 221,Fourth Term Russian,5,RUSS 220,N
+,,,,
+Sign Language,Sign Language,Sign Language,Sign Language,Sign Language
+SIGN 280,American Sign Language (ASL) I,3,N,N
+SIGN 281,American Sign Language (ASL) II,3,SIGN 280,N
+SIGN 282,American Sign Language (ASL) III,3,SIGN 281,N
+SIGN 283,American Sign Language (ASL) IV,3,SIGN 282,N
+,,,,
+Social Science,Social Science,Social Science,Social Science,Social Science
+SOCSC 101,Introduction to Social Justice,3,N,N
+SOCSC 110,The American Social Experience,3,N,N
+SOCSC 111,"Money, Power, and Politics in the United States",3,N,N
+SOCSC 120,Women and Social Change in the United States 1890-Present,3,N,N
+SOCSC 123,American Popular Culture,3,N,N
+SOCSC 220,Women in United States Society,3,N,N
+,,,,
+Sociology,Sociology,Sociology,Sociology,Sociology
+SOCIO 120,Introduction to Sociology,3,N,N
+SOCIO 121,Introduction to Social Problems,3,N,N
+SOCIO 122,Critical Thinking About Social and Cultural Issues,3,ENGL 122,N
+SOCIO 123,Introduction to Social Research,3,SOCIO 120,N
+SOCIO 124,"Gender, Culture, and Society",3,N,N
+SOCIO 125,"Families, Relationships, and Commitment",3,N,N
+SOCIO 131,The Urban Community,3,N,N
+SOCIO 135,Introduction to Race and Ethnicity,3,N,N
+,,,,
+Spanish,Spanish,Spanish,Spanish,Spanish
+SPAN 120,First Term Spanish,5,N,N
+SPAN 121,Second Term Spanish,5,SPAN 120,N
+SPAN 220,Third Term Spanish,5,SPAN 121,N
+SPAN 221,Fourth Term Spanish,5,SPAN 220,N
+SPAN 230,Fifth Term Spanish,3,SPAN 221,N
+SPAN 231,Sixth Term Spanish,3,SPAN 230,N
+SPAN 240,Spanish for Heritage Speakers I,5,N,N
+SPAN 241,Spanish for Heritage Speakers II,5,SPAN 240,N
